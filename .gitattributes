@@ -1,2 +1,8 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+path/to/large/file.pdf filter=lfs diff=lfs merge=lfs -text
+path/to/another/large/file.txt filter=lfs diff=lfs merge=lfs -text
+path/to/yet/another/large/file.txt filter=lfs diff=lfs merge=lfs -text
+Limpieza_stopwords_tokens/DatosGastro/Editores_MANUAL_DE_GASTROENTEROLOGIA_CLI.pdf filter=lfs diff=lfs merge=lfs -text
+Limpieza_stopwords_tokens/texto_tokenizado_BERT.txt filter=lfs diff=lfs merge=lfs -text
+Limpieza_stopwords_tokens/texto_procesado.txt filter=lfs diff=lfs merge=lfs -text
